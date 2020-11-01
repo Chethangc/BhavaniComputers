@@ -1,0 +1,100 @@
+body{
+
+    background: #ddd;
+    overflow: auto!important;
+    -webkit-transition: .5s all ease;
+}
+
+
+.teamt
+{  
+    margin:0;
+    font-weight: 700;
+    text-transform: uppercase;   
+}
+.jumbotron
+{
+    background: #ddd;
+}
+.card
+{
+    color:rgb(52, 58, 64)!important;
+    background-color: #fff;
+    border-radius:3px;
+    font-family: 'Raleway',sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    box-shadow: 5px 5px 15px rgb(52, 58, 64);
+}
+h1{
+    
+    font-family: 'Raleway',sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+h3
+{
+    
+    font-family: 'Raleway',sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.team img
+{
+    margin-top: -50px;
+}
+.team i{
+    font-size: 20px;
+}
+.team p
+{
+    font-weight: 500;
+}
+
+.card h3,p,h5 
+{
+    color:rgb(52, 58, 64)!important;
+}
+
+.card:hover{
+   background-color:rgb(0, 123, 255);
+   box-shadow: 5px 5px 15px #fff;;
+
+}
+.card:hover i
+{
+color:rgb(52, 58, 64)!important;
+}
+.card:hover h3
+{
+    color:  #fff!important;
+}
+.card:hover h5
+{
+    color: #fff!important;
+}
+.card:hover p
+{
+    color:  #fff!important;
+}
+
+.card:hover
+{
+    color: #fff;
+}
+.abovepara
+{
+    color: rgb(52, 58, 64)!important;
+}
+
+img
+{
+    top:30px;
+    -webkit-transition: .5s all ease;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
